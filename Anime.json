@@ -103,8 +103,8 @@
   },
 {
     "pckg_id": "com.rwa",
-    "base_domain": "t.me/HawsiHere",
-    "home_url": "https://t.me/HawsiHere/",
+    "base_domain": "rwa.vercel.app",
+    "home_url": "https://spidyuniverserwa.vercel.app/",
     "mega_domains": ["mega.nz"]
   },
   {
